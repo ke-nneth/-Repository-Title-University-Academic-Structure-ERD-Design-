@@ -1,2 +1,2 @@
 # -Repository-Title-University-Academic-Structure-ERD-Design-
-Creating using SQL and MySQL
+Created using SQL and MySQL
